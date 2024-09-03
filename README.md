@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 👋
 
-<!--
-**gatinhawww/gatinhawww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Geovana Vitória
 
-Here are some ideas to get you started:
+Estou studando no Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolveno na linguagem Javascript
+
+Utilizo esse espaço para minha organização e comppartilhamento dos meus projetos desenvolvidos
+
+## para você entrar em contato comigo
+ geovana.venancio.silva@escola.pr.gov.br
+
+![image](https://github.com/user-attachments/assets/a2f161ab-33a3-4164-aa6a-1490bb59b8ac)
+
